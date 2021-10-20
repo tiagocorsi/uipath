@@ -1,0 +1,79 @@
+Nome,Ano,Valor,KM
+Volkswagen Gol 1.0 Mi 3p,1996,32.500,35.000 Km
+Sucata Gol Quadrado 89 Cl 1.6 Cht,1989,11.665,10.000 Km
+Volkswagen Gol Cl,1989,10.000,190.000 Km
+Volkswagen Gol Gl Gol Gl Quadrado,1987,13.850,55.000 Km
+Wolkswagem Gol Quadrado,1987,10.000,150 Km
+Volkswagen Gol Quadrado,1989,7.500,25.000 Km
+Volkswagen Cht 1.6,1992,8.600,188 Km
+Volkswagen Gol Quadrado 1.8,1992,11.000,999.999 Km
+Vw Gol Quadrado,1993,12.000,145.000 Km
+Volkswagen Gol Quadrado,1991,19.999,308.000 Km
+Volkswagen Gol Quadrado 1600cc,1982,10.000,100.000 Km
+Vw Gol Quadrado 93,1993,11.000,1.000 Km
+Volkswagen Gol Quadrado Cl 1.6,1992,5.500,1 Km
+Gol Quadrado 2p 1.6 1994 Motor Ap,1994,9.000,458.754 Km
+Gol Quadrado Gol Quadrado Cht,1994,8.500,98.000 Km
+Gol 16 Ano 1994 Gol Quadrado 1.6,1994,12.000,100 Km
+Volkswagen Gol Quadrado,1990,9.000,440.000 Km
+Volkswagen Gol Quadrado,1988,8.000,1.111 Km
+Volkswagen Gol Quadrado 1.6 Álcool,1989,16.000,90.000 Km
+Volkswagen Gol Quadrado,1994,6.000,500 Km
+Volks Gol Quadrado,1996,4.000,200.000 Km
+Volkswagen Gol Quadrado,1991,10.000,99.999 Km
+Volkswagen Gol Quadrado,1993,6.000,99.999 Km
+Vw Gol Quadrado,1989,2.500,180.000 Km
+Gol 94 Quadrado Raridade 38.000 Km Originais,1994,30.000,37.600 Km
+Volkswagen Gol Gl,1996,25.000,140.000 Km
+Volkswagen Gol Gol Quadrado,1989,7.000,181.199 Km
+Volkswagen Gl Gl,1994,20.000,100.000 Km
+Volkswagen Gol Quadrado,1989,13.500,200.000 Km
+Gol Quadrado,1993,10.500,63.041 Km
+Volkswagen Gol Cl Cl 1.6 Ae,1993,27.900,84.000 Km
+Gol Quadrado,1992,9.500,50.000 Km
+Gol Quadrado,1991,7.500,23 Km
+Gol Quadrado 1000 Cht,1995,6.300,170.000 Km
+Volkswagen Gol Quadrado,1991,20.000,199.999 Km
+Volkswagen Gol Quadrado Quadrado,1994,30.000,105.000 Km
+Volkswagen Gol Gol Quadrado,1988,9.746,174.000 Km
+Gol Quadrado Ret Quadrado,1995,10.000,400.000 Km
+Gol Quadrado 92 Volkswagen,1992,5.200,270.000 Km
+Volkswagen Gol Quadrado 1.6 A.p Quadrado 94,1994,17.000,50.000 Km
+Volkswagen Gol Gol Quadrado Cht,1994,10.800,75.000 Km
+Gol Quadrado,1994,14.000,85.000 Km
+Volkswagen Gol 1.0 Mi 3p,1996,6.000,190.000 Km
+Gol Gol Quadrado Gti,1994,60.000,11.111 Km
+Gol Quadrado Quadrado,1993,12.000,1 Km
+Gol Quadrado Quadrado,1996,8.000,200.000 Km
+Volkswagen Gol Quadrado,1994,9.000,80.000 Km
+Volkswagen Gol Gol Quadrado,1993,9.000,315.256 Km
+Wolksvagem Gol Quadrado 1.8ap,1994,9.000,207.449 Km
+Volkswagen Gol Gol Quadrado,1994,14.000,90.000 Km
+Volkswagen Gol Gol Quadrado 1.8,1994,6.100,893.351 Km
+Volkswagen Gol Gol Quadrado 1.8 Ap,1988,15.200,195.000 Km
+Volkswagen Gol Quadrado,1994,14.250,192.000 Km
+Volkswagen Gol Quadrada 1995,1996,4.000,10.000 Km
+Volkswagen Gol Gol Quadrado,1994,5.500,999.000 Km
+Volkswagen Gol Quadrado,1992,8.550,192.000 Km
+Gol Quadrado Gol,1988,9.000,111.111 Km
+"Vw Gol Quadrado 1,6 Ap",1989,4.500,180.000 Km
+Gol Quadrado,1994,14.000,100.000 Km
+Volkswagen- Gol Quadrado,1994,16.000,57.777 Km
+Volkswagen Gol Quadrado,1993,12.000,111.111 Km
+Gol Cl Quadrado Quadrado,1989,8.000,78.356 Km
+Gol Quadrado,1989,7.500,250.040 Km
+Volkswagen Gol Quadrado,1993,8.817,941.658 Km
+Volkswagen Gol Quadrado Cl 1.6,1990,9.200,600.000 Km
+Gol Quadrado,1996,10.000,180.000 Km
+Volkswagen Gol Quadrado,1987,7.000,200.000 Km
+Gol Quadrado Gol Quadrado,1990,1.600,48 Km
+Gol Quadrado,1996,100,
+Volkswagen Gol Gol Quadrado,1994,15.500,176.000 Km
+Gol Quadrado,1994,7.000,
+Gol Quadrado 87 1.6ap,1987,12.000,78.000 Km
+Vw Gol Quadrado,1996,8.500,200.000 Km
+Gol Quadrado Ano 94 Gol Quadrado,1994,9.000,84.176 Km
+Gol Quadrado,1989,2.500,100.000 Km
+Vw Gol Quadrado,1992,8.000,103 Km
+Vw Gol Quadrado,1990,4.000,9.999.999 Km
+Sucata Gol Quadrado Motor Cambio Peças Sucata Gol Quadrado Motor Cambio Peças Lataria Sucata Gol Quadrado Motor Cambio Peças,1989,5.000,10.000 Km

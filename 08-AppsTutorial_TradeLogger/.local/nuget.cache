@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ0o5RfrU5xl9dkrKmll3TzLEDauw/+k9vFbt2lZ4EhoX1pVIyoeoWVfPN00G1/MfshcEdFN0Dyc5LdWOeU9hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\UiPath\\08-AppsTutorial_TradeLogger\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\csvhelper\\2.13.5\\csvhelper.2.13.5.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\extended.wpf.toolkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\uipath\\19.10.7275.19994\\uipath.19.10.7275.19994.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\uipath.ocr.contracts\\2.2.1\\uipath.ocr.contracts.2.2.1.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\uipath.system.activities\\19.10.1\\uipath.system.activities.19.10.1.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\uipath.uiautomation.activities\\19.11.0\\uipath.uiautomation.activities.19.11.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\uipath.vision\\2.0.0\\uipath.vision.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
